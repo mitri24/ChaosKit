@@ -11,7 +11,7 @@ It includes a focus calendar, distraction killer toolkit, and a silent to-do lis
 
 ## Usage
 
-Simply open the `landingPage.html` file in your browser or deploy the site with GitHub Pages for online access.
+Simply open the `index.html` file in your browser or deploy the site with GitHub Pages for online access.
 
 ## License
 
